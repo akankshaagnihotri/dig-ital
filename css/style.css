@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Anybody:ital,wght@0,100;0,200;0,300;0,400;1,100;1,200;1,300;1,400&display=swap');
+.bg_rgba {
+    background: linear-gradient(77.61deg, #f256dd31 26.28%, #2fbbda42 100%);
+}
+
+.logo_img {
+    padding-top: 25px;
+}
+
+.button_d {
+    background-color: blue;
+    border-radius: 20px !important;
+}
+
+.menu {
+    word-spacing: 6px;
+}
+
+.menu a {
+    text-decoration: none;
+    color: black;
+}
+
+.hire_d {
+    padding-top: 85px;
+}
+
+.digital {
+    padding-left: 10px;
+}
+
+.brand_img {
+    margin-left: -110px;
+}
+
+.brand_img img {
+    padding-left: 40px;
+    height: 50px;
+    animation: acb 3s infinite alternate;
+}
+
+@keyframes acb {
+    from {}
+    to {
+        margin-right: 190px;
+    }
+}
+
+.digital_text .main_text {
+    font-size: 35px;
+    padding-top: 130px;
+}
+
+.just_price {
+    padding-left: 5px;
+    word-spacing: 5px;
+    font-size: 20px;
+    margin-left: 35px;
+    display: flex;
+}
+
+.just_price .just {
+    background-color: rgba(0, 0, 0, 0.096);
+    border: 1px dashed rgba(0, 0, 0, 0.438);
+}
+
+.get_now {
+    display: flex;
+    margin-top: 43px;
+    font-weight: 600;
+    padding-left: 60px;
+}
+
+.get_now .get {
+    border-radius: 50%;
+    color: #ffff;
+    padding: 14px;
+    background-color: rgba(0, 0, 255, 0.596);
+}
+
+.get_now .start {
+    padding-top: 14px;
+}
+
+.ppl_d {
+    color: #FE2159;
+}
+
+.google_d {
+    position: relative;
+    align-items: right;
+    text-align: right;
+    padding-top: 150px;
+}
+
+.see_d {
+    background-color: #7A53F4;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.see_more {
+    padding-left: 460px;
+}
+
+.text_design p {
+    color: #fff;
+}
+
+.bg_img {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(../img/Rectangle\ 37.png);
+}
+
+.contect_d form {
+    border-radius: 20px;
+    margin: 60px;
+    padding: 30px;
+    border: 1px solid #000;
+    -webkit-box-shadow: 10px 10px 44px 7px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 10px 44px 7px rgba(0, 0, 0, 0.75);
+    box-shadow: 10px 10px 44px 7px rgba(0, 0, 0, 0.75);
+    background-color: rgba(226, 214, 214, 0.082);
+}
+
+.btn_d {
+    margin-top: 15px;
+    background-color: #7A53F4;
+    color: #fff;
+    padding: 8px 15px;
+    border-radius: 35px;
+    border: #fff;
+}
+
+.img_design {
+    width: 400px;
+    margin-left: 20px;
+}
+
+.d_hire {
+    background-color: #7A53F4;
+    padding: 8px;
+    border-radius: 50%;
+    color: #fff;
+}
+
+.img_logo {
+    width: 1250px;
+}
+
+.socials a {
+    color: #fff;
+    border-radius: 50%;
+    padding: 5px;
+    border: 1px solid #fff;
+}
+
+.socials a:hover {
+    background-color: #fff;
+}
+
+.company_d a p {
+    color: rgba(217, 218, 231, 0.712);
+}
+
+.why_design a p {
+    color: rgba(217, 218, 231, 0.712);
+}
+
+.policy_design a p {
+    text-decoration: none;
+    color: rgba(217, 218, 231, 0.712);
+}
+
+.copyright_design {
+    color: rgba(217, 218, 231, 0.712);
+    font-size: 13px;
+}
